@@ -1,0 +1,18 @@
+site_name: p5.js Tutorial
+
+nav:
+  - Intro: index.md
+  - Get Started: p5JSModule.md
+  - module-1: module-1.md
+  - module-2: module-2.md
+  - module-3: module-3.md
+  - Task-1: task-1.md
+  - module-4: module-4.md
+  - module-5: module-5.md
+  - module-6: module-6.md
+  - Task-2: task-2.md
+
+theme: readthedocs
+
+markdown_extensions:
+  - admonition
